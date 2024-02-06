@@ -1,2 +1,2 @@
-# chiptard_doc_zh
+# chipyard_doc_zh
 The documents of chipyard in chinese.
