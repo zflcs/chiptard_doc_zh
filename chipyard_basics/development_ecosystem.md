@@ -1,4 +1,0 @@
-# Development Ecosystem
-
-## Chipyard Approch
-
